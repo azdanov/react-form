@@ -16,7 +16,7 @@
     "react:start": "react-scripts start",
     "react:build": "react-scripts build",
     "start": "run-p tailwind:start react:start",
-    "build": "run-s tailwind:build react:build ",
+    "build": "run-s tailwind:build react:build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "tailwind:start": "postcss src/styles/tailwind/config.scss -o src/styles/tailwind/_tailwind.scss -w",
