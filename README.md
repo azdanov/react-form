@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# § React Forms
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Tailwind CSS](https://tailwindcss.com).
+
+Simple form component with basic validation with [joi-browser](https://github.com/jeffbski/joi-browser). [Reach Router](https://reach.tech/router) is used to make this demo look more 'realworld'.
+
+[PostCSS](https://github.com/postcss/postcss-cli) and [PurgeCSS](https://github.com/FullHuman/purgecss) help in keeping the styles optimized for production build.
 
 ## Available Scripts
 
